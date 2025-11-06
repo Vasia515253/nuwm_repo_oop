@@ -1,0 +1,15 @@
+D:\git-repo\nuwm_repo_oop\bin\Debug\net7.0\nuwm_repo_oop.exe
+D:\git-repo\nuwm_repo_oop\bin\Debug\net7.0\nuwm_repo_oop.deps.json
+D:\git-repo\nuwm_repo_oop\bin\Debug\net7.0\nuwm_repo_oop.runtimeconfig.json
+D:\git-repo\nuwm_repo_oop\bin\Debug\net7.0\nuwm_repo_oop.dll
+D:\git-repo\nuwm_repo_oop\bin\Debug\net7.0\nuwm_repo_oop.pdb
+D:\git-repo\nuwm_repo_oop\obj\Debug\net7.0\nuwm_repo_oop.GeneratedMSBuildEditorConfig.editorconfig
+D:\git-repo\nuwm_repo_oop\obj\Debug\net7.0\nuwm_repo_oop.AssemblyInfoInputs.cache
+D:\git-repo\nuwm_repo_oop\obj\Debug\net7.0\nuwm_repo_oop.AssemblyInfo.cs
+D:\git-repo\nuwm_repo_oop\obj\Debug\net7.0\nuwm_repo_oop.csproj.CoreCompileInputs.cache
+D:\git-repo\nuwm_repo_oop\obj\Debug\net7.0\nuwm_repo_oop.sourcelink.json
+D:\git-repo\nuwm_repo_oop\obj\Debug\net7.0\nuwm_repo_oop.dll
+D:\git-repo\nuwm_repo_oop\obj\Debug\net7.0\refint\nuwm_repo_oop.dll
+D:\git-repo\nuwm_repo_oop\obj\Debug\net7.0\nuwm_repo_oop.pdb
+D:\git-repo\nuwm_repo_oop\obj\Debug\net7.0\nuwm_repo_oop.genruntimeconfig.cache
+D:\git-repo\nuwm_repo_oop\obj\Debug\net7.0\ref\nuwm_repo_oop.dll
